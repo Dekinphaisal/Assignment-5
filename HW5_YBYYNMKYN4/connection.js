@@ -20,5 +20,5 @@ while (!reader.EndOfStream)
             {"Active", values[10]}
         };
 
-    csvFile.InsertOne(row);
+    csvFile.ReadtOne(row);
 }
